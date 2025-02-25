@@ -8,3 +8,4 @@
 
 ## Сертификаты
 - [EF SET сертификат](https://github.com/Leesmike/CV-and-certificates/blob/main/EF%20SET%20Certificate.pdf) владения английским языком
+- [Rusau QA сертификат](https://github.com/Leesmike/CV-and-certificates/blob/main/Mikhail_Li_QA_certificate_8897572.pdf) успешного завершения курса "Функциональное тестирование ПО"
